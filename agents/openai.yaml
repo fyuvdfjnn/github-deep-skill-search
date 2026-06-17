@@ -1,0 +1,4 @@
+interface:
+  display_name: "GitHub Deep Skill Search"
+  short_description: "Deeply search and evaluate GitHub skills"
+  default_prompt: "Use $github-deep-skill-search to find and evaluate high-quality GitHub skills for a topic."
